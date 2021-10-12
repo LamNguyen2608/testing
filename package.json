@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.1.2",
+    "express": "^4.17.1"
+  },
+  "name": "bt2",
+  "version": "1.0.0",
+  "description": "package",
+  "main": "new.js",
+  "scripts": {
+    "start": "node new.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eiwww57/BT2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eiwww57/BT2/issues"
+  },
+  "homepage": "https://github.com/eiwww57/BT2#readme"
+}
